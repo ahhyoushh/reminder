@@ -1,0 +1,9 @@
+six
+pygeneric>=0.5.4
+lazyutils
+
+[dev]
+pytest
+manuel
+sphinx
+python-boilerplate

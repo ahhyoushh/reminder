@@ -1,0 +1,5 @@
+pygame
+FGAme
+
+[dev]
+python-boilerplate[dev]

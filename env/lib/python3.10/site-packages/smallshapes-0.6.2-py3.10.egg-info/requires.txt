@@ -1,0 +1,7 @@
+smallvectors>=0.6
+
+[dev]
+invoke
+manuel
+pytest
+python-boilerplate>=0.4.5
